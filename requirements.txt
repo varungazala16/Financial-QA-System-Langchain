@@ -1,0 +1,14 @@
+ollama
+langchain
+langchain-community
+chromadb
+sentence-transformers
+pdfplumber
+nltk
+rouge-score
+rich
+pandas
+pyyaml
+tiktoken
+numpy
+

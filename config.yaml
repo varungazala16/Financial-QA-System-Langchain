@@ -1,0 +1,55 @@
+# Model Configuration
+models:
+  - name: "llama3:8b"
+    display_name: "Llama-3"
+  - name: "mistral:7b"
+    display_name: "Mistral-7B"
+  - name: "phi3:mini"
+    display_name: "Phi-3-mini"
+
+# Embedding Configuration
+embeddings:
+  model: "sentence-transformers/all-mpnet-base-v2"
+  batch_size: 32
+
+# Chunking Configuration
+chunking:
+  chunk_size: 100  # tokens
+  chunk_overlap: 50  # tokens
+  separator: "\n\n"
+
+# Vector Database Configuration
+vector_db:
+  type: "chromadb"
+  collection_name: "financial_reports"
+  persist_directory: "data/knowledge_base/chroma_db"
+  top_k: 5
+
+# PDF Files Configuration
+pdf_files:
+  wells:
+    - "q1-earnings-wells.pdf"
+    - "q2-earnings-wells.pdf"
+    - "q3-earnings-wells.pdf"
+    - "q4-earnings-wells.pdf"
+  bofa:
+    - "q1-earnings-bofa.pdf"
+    - "q2_earnings_bofa.pdf"
+    - "q3_earnings_bofa.pdf"
+    - "q4_earnings_bofa.pdf"
+
+# Paths
+paths:
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  knowledge_base: "data/knowledge_base"
+  questions: "questions/financial_questions.json"
+
+# Evaluation Configuration
+evaluation:
+  metrics:
+    - "bleu"
+    - "rouge"
+    - "meteor"
+  ground_truth_file: "questions/ground_truth_answers.json"
+
