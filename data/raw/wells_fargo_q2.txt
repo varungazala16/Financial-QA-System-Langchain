@@ -1,0 +1,456 @@
+--- Page 1 ---
+News Release | July 12, 2024
+Wells Fargo Reports Second Quarter 2024 Net Income of
+$4.9 billion, or $1.33 per Diluted Share
+Company-wide Financial Summary Operating Segments and Other Highlights
+Quarter ended Quarter Jun 30, 2024
+ended % Change from
+Jun 30, Jun 30,
+2024 2023 Jun 30, Mar 31, Jun 30,
+($ in billions) 2024 2024 2023
+Selected Income Statement Data
+($ in millions except per share amounts) Average loans
+Total revenue $ 20,689 20,533
+Consumer Banking and Lending $ 325.9 ( 1) % (3)
+Noninterest expense 13,293 12,987 Commercial Banking 224.4 — (1)
+Provision for credit losses1 1,236 1,713 Corporate and Investment
+Banking 275.8 ( 3) (5)
+Net income 4,910 4,938
+Diluted earnings per common share 1.33 1.25 Wealth and Investment
+Management 83.2 1 —
+Selected Balance Sheet Data
+Average deposits
+($ in billions)
+Consumer Banking and Lending 778.2 1 (5)
+Average loans $ 917.0 945.9
+Commercial Banking 166.9 2 —
+Average deposits 1,346.5 1,347.4
+CET12 11.0% 10.7 Corporate and Investment
+Banking 187.5 2 17
+Performance Metrics Wealth and Investment
+Management 102.8 1 (8)
+ROE3 11.5% 11.4
+ROTCE4 13.7 13.7 Capital
+◦ Repurchased 100.5 million shares, or $6.1 billion, of
+common stock in second quarter 2024
+Chief Executive Officer Charlie Scharf commented, “Our efforts to transform Wells Fargo were reflected in our second
+quarter financial performance as diluted earnings per common share grew from both the first quarter and a year ago. We
+continued to see growth in our fee-based revenue offsetting an expected decline in net interest income. The investments
+we have been making allowed us to take advantage of the market activity in the quarter with strong performance in
+investment advisory, trading, and investment banking fees. Credit performance was consistent with our expectations,
+commercial loan demand remained tepid, we saw growth in deposit balances in all of our businesses, and the pace of
+customers reallocating cash into higher yielding alternatives slowed.”
+“Our capital position remains strong and we continue to use it to support our customers while also prudently returning
+excess capital to our shareholders. We repurchased over $12 billion of common stock during the first half of this year and
+as we previously announced, we expect to increase our third quarter common stock dividend by 14%, subject to approval
+by the Company’s Board of Directors at its regularly scheduled meeting later this month.” Scharf added.
+“Our risk and control work remains our top priority, and we are also continuing to execute on our strategy to better serve
+our customers and drive higher returns over time. In the second quarter we launched two new credit cards, a small
+business card and a consumer card. We have now launched nine new cards since 2021, driving strong credit card spend
+and account growth. We are investing in our branch network to improve the customer experience including refurbishing
+branches and enhancing technology. In our commercial businesses we are investing in talent and technology to capture
+the opportunity inherent in our franchise including hiring a new Co-CEO of Corporate and Investment Banking. I’m proud
+of the progress we’ve made due to the commitment of everyone who works at Wells Fargo and am excited about the
+opportunities ahead,” Scharf concluded.
+1
+Includes provision for credit losses for loans, debt securities, and other financial assets.
+2
+Represents our Common Equity Tier 1 (CET1) ratio calculated under the Standardized Approach, which is our binding CET1 ratio. See tables on pages 27-28 of the 2Q24 Quarterly Supplement for more
+information on CET1. CET1 for June 30, 2024, is a preliminary estimate.
+3
+Return on equity (ROE) represents Wells Fargo net income applicable to common stock divided by average common stockholders’ equity.
+4
+Tangible common equity and return on average tangible common equity (ROTCE) are non-GAAP financial measures. For additional information, including a corresponding reconciliation to GAAP financial
+measures, see the “Tangible Common Equity” tables on pages 25-26 of the 2Q24 Quarterly Supplement.
+
+--- Page 2 ---
+Financial results reported in this document are preliminary. Final financial results and other disclosures will be reported in our Quarterly Report on
+Form 10-Q for the quarter ended June 30, 2024, and may differ materially from the results and disclosures in this document due to, among other
+things, the completion of final review procedures, the occurrence of subsequent events, or the discovery of additional information.
+Selected Company-wide Financial Information
+Jun 30, 2024
+Quarter ended % Change from
+Jun 30, Mar 31, Jun 30, Mar 31, Jun 30,
+2024 2024 2023 2024 2023
+Earnings ($ in millions except per share amounts)
+Net interest income $ 11,923 12,227 13,163 (2) % (9)
+Noninterest income 8,766 8,636 7,370 2 19
+Total revenue 20,689 20,863 20,533 (1) 1
+Net charge-offs 1,303 1,157 764 13 71
+Change in the allowance for credit losses (67) (219) 949 69 NM
+Provision for credit losses1 1,236 938 1,713 32 (28)
+Noninterest expense 13,293 14,338 12,987 (7) 2
+Income tax expense 1,251 964 930 30 35
+Wells Fargo net income $ 4,910 4,619 4,938 6 (1)
+Diluted earnings per common share 1.33 1.20 1.25 11 6
+Balance Sheet Data (average) ($ in billions)
+Loans $ 917.0 928.1 945.9 (1) (3)
+Deposits 1,346.5 1,341.6 1,347.4 — —
+Assets 1,914.6 1,917.0 1,878.3 — 2
+Financial Ratios
+Return on assets (ROA) 1.03 % 0.97 1.05
+Return on equity (ROE) 11.5 10.5 11.4
+Return on average tangible common equity (ROTCE)2 13.7 12.3 13.7
+Efficiency ratio3 64 69 63
+Net interest margin on a taxable-equivalent basis 2.75 2.81 3.09
+NM – Not meaningful
+1 Includes provision for credit losses for loans, debt securities, and other financial assets.
+2 Tangible common equity and return on average tangible common equity are non-GAAP financial measures. For additional information, including a corresponding reconciliation to GAAP financial
+measures, see the “Tangible Common Equity” tables on pages 25-26 of the 2Q24 Quarterly Supplement.
+3 The efficiency ratio is noninterest expense divided by total revenue (net interest income and noninterest income).
+Second Quarter 2024 vs. Second Quarter 2023
+◦ Net interest income decreased 9%, due to the impact of higher interest rates on funding costs, including the impact of
+lower deposit balances and customer migration to higher yielding deposit products in Consumer Banking and Lending
+and Wealth and Investment Management, higher deposit costs in Commercial Banking and Corporate and Investment
+Banking, as well as lower loan balances, partially offset by higher yields on earning assets
+◦ Noninterest income increased 19%, driven primarily by higher trading revenue in our Markets business, higher
+investment banking fees, an increase in asset-based fees in Wealth and Investment Management on higher market
+valuations, the impact from the adoption of a new accounting standard for renewable energy tax credit investments5,
+and improved results from our venture capital investments
+◦ Noninterest expense increased 2%, driven by higher operating losses including higher customer remediation accruals for
+historical matters, an increase in revenue-related compensation predominantly in Wealth and Investment Management,
+and higher technology and equipment expense, partially offset by the impact of efficiency initiatives including lower
+salaries expense and professional and outside services expense
+◦ Provision for credit losses in second quarter 2024 included a modest decrease in the allowance for credit losses, as a
+higher allowance for credit card loans was more than offset by lower allowances for most other loan portfolios
+5
+In first quarter 2024, we adopted a new accounting standard to use the proportional amortization method for renewable energy tax credit investments. Under the proportional amortization method, the
+amortization of the investments and the related tax impacts are both recognized in income tax expense. Previously, we recognized the amortization of the investments in other noninterest income and
+the related tax impacts were recognized in income tax expense.
+-2-
+
+--- Page 3 ---
+Selected Company-wide Capital and Liquidity Information
+Quarter ended
+Jun 30, Mar 31, Jun 30,
+($ in billions) 2024 2024 2023
+Capital:
+Total equity $ 178.1 182.7 182.0
+Common stockholders’ equity 160.0 162.5 160.9
+Tangible common equity1 134.7 137.2 134.0
+Common Equity Tier 1 (CET1) ratio2 11.0 % 1 1.2 1 0.7
+Total loss absorbing capacity (TLAC) ratio3 24.8 2 5.1 2 3.1
+Supplementary Leverage Ratio (SLR)4 6.7 6 .9 6 .9
+Liquidity:
+Liquidity Coverage Ratio (LCR)5 124 % 126 1 23
+1 Tangible common equity is a non-GAAP financial measure. For additional information, including a corresponding reconciliation to GAAP financial measures, see the “Tangible Common Equity” tables on
+pages 25-26 of the 2Q24 Quarterly Supplement.
+2 Represents our CET1 ratio calculated under the Standardized Approach, which is our binding CET1 ratio. See tables on pages 27-28 of the 2Q24 Quarterly Supplement for more information on CET1.
+CET1 for June 30, 2024, is a preliminary estimate.
+3 Represents TLAC divided by risk-weighted assets (RWAs), which is our binding TLAC ratio, determined by using the greater of RWAs under the Standardized and Advanced Approaches. TLAC for June 30,
+2024, is a preliminary estimate.
+4 SLR for June 30, 2024, is a preliminary estimate.
+5 Represents average high-quality liquid assets divided by average projected net cash outflows, as each is defined under the LCR rule. LCR for June 30, 2024, is a preliminary estimate.
+◦ In June, the Company completed the 2024 Comprehensive Capital Analysis and Review stress test process
+▪ The Company’s stress capital buffer (SCB) for October 1, 2024, through September 30, 2025, is expected to be 3.8%;
+the Federal Reserve Board has indicated that it will publish our final SCB by August 31, 2024
+▪ Third quarter 2024 common stock dividend is expected to be $0.40 per share, up from $0.35 per share, subject to
+approval by the Company’s Board of Directors at its regularly scheduled meeting in July
+Selected Company-wide Loan Credit Information
+Quarter ended
+Jun 30, Mar 31, Jun 30,
+($ in millions) 2024 2024 2023
+Net loan charge-offs $ 1,301 1,149 764
+Net loan charge-offs as a % of average total loans (annualized) 0.57 % 0.50 0.32
+Total nonaccrual loans $ 8,434 8,075 6,886
+As a % of total loans 0.92 % 0.88 0.73
+Total nonperforming assets $ 8,650 8,240 7,019
+As a % of total loans 0.94 % 0.89 0.74
+Allowance for credit losses for loans $ 14,789 14,862 14,786
+As a % of total loans 1.61 % 1.61 1.56
+Second Quarter 2024 vs. First Quarter 2024
+◦ Commercial net loan charge-offs as a percentage of average loans were 0.35% (annualized), up from 0.25%, driven by
+higher commercial real estate net loan charge-offs, predominantly in the office portfolio, as well as higher commercial
+and industrial net loan charge-offs. The consumer net loan charge-off rate increased to 0.88% (annualized), up from
+0.84%, due to higher net loan charge-offs in the credit card portfolio, partially offset by lower net loan charge-offs in the
+auto portfolio
+◦ Nonperforming assets were up $410 million, or 5%, driven by higher commercial real estate nonaccrual loans,
+predominantly in the office portfolio
+-3-
+
+--- Page 4 ---
+Operating Segment Performance
+Consumer Banking and Lending offers diversified financial products and services for consumers and small businesses with
+annual sales generally up to $10 million. These financial products and services include checking and savings accounts, credit
+and debit cards, as well as home, auto, personal, and small business lending.
+Selected Financial Information
+Jun 30, 2024
+Quarter ended % Change from
+Jun 30, Mar 31, Jun 30, Mar 31, Jun 30,
+2024 2024 2023 2024 2023
+Earnings (in millions)
+Consumer, Small and Business Banking $ 6,129 6,092 6,448 1 % (5)
+Consumer Lending:
+Home Lending 823 864 847 (5) (3)
+Credit Card 1,452 1,496 1,449 (3) —
+Auto 282 300 378 (6) (25)
+Personal Lending 320 339 333 (6) (4)
+Total revenue 9,006 9,091 9,455 (1) (5)
+Provision for credit losses 932 788 874 18 7
+Noninterest expense 5,701 6,024 6,027 (5) (5)
+Net income $ 1,777 1,706 1,914 4 (7)
+Average balances (in billions)
+Loans $ 325.9 329.7 336.4 (1) (3)
+Deposits 778.2 773.2 823.3 1 (5)
+Second Quarter 2024 vs. Second Quarter 2023
+◦ Revenue decreased 5%
+▪ Consumer, Small and Business Banking was down 5% driven by lower deposit balances and the impact of customer
+migration to higher yielding deposit products including promotional savings and time deposit accounts
+▪ Home Lending was down 3% reflecting lower net interest income on lower loan balances
+▪ Credit Card was stable reflecting higher loan balances, including the impact of higher point of sale volume and new
+account growth, offset by lower other fee revenue
+▪ Auto was down 25% due to lower loan balances and loan spread compression
+▪ Personal Lending was down 4% driven by lower loan balances and loan spread compression
+◦ Noninterest expense was down 5% reflecting lower operating costs and the impact of efficiency initiatives, partially
+offset by higher advertising and occupancy expense
+-4-
+
+--- Page 5 ---
+Commercial Banking provides financial solutions to private, family owned and certain public companies. Products and
+services include banking and credit products across multiple industry sectors and municipalities, secured lending and lease
+products, and treasury management.
+Selected Financial Information
+Jun 30, 2024
+Quarter ended % Change from
+Jun 30, Mar 31, Jun 30, Mar 31, Jun 30,
+2024 2024 2023 2024 2023
+Earnings (in millions)
+Middle Market Banking1 $ 2,153 2,078 2,199 4 % (2)
+Asset-Based Lending and Leasing1 969 1,074 1,170 (10) (17)
+Total revenue 3,122 3,152 3,369 (1) (7)
+Provision for credit losses 29 143 26 (80) 12
+Noninterest expense 1,506 1,679 1,630 (10) (8)
+Net income $ 1,182 986 1,281 20 (8)
+Average balances (in billions)
+Loans $ 224.4 223.9 225.8 — (1)
+Deposits 166.9 164.0 166.7 2 —
+1 In second quarter 2024, we prospectively transferred our commercial auto business from Asset-Based Lending and Leasing to Middle Market Banking.
+Second Quarter 2024 vs. Second Quarter 2023
+◦ Revenue decreased 7%
+▪ Middle Market Banking was down 2% driven by lower net interest income reflecting the impact of higher interest rates
+on deposit costs, partially offset by higher treasury management fees
+▪ Asset-Based Lending and Leasing was down 17% and included lower net interest income, lease income, and revenue
+from equity investments
+◦ Noninterest expense decreased 8% on lower personnel expense reflecting the impact of efficiency initiatives, and lower
+operating costs
+-5-
+
+--- Page 6 ---
+Corporate and Investment Banking delivers a suite of capital markets, banking and financial products and services to
+corporate, commercial real estate, government and institutional clients globally. Products and services include corporate
+banking, investment banking, treasury management, commercial real estate lending and servicing, equity and fixed income
+solutions, as well as sales, trading, and research capabilities.
+Selected Financial Information
+Jun 30, 2024
+Quarter ended % Change from
+Jun 30, Mar 31, Jun 30, Mar 31, Jun 30,
+2024 2024 2023 2024 2023
+Earnings (in millions)
+Banking:
+Lending $ 688 681 685 1 % —
+Treasury Management and Payments 687 686 762 — (10)
+Investment Banking 430 474 311 (9) 38
+Total Banking 1,805 1,841 1,758 (2) 3
+Commercial Real Estate 1,283 1,223 1,333 5 (4)
+Markets:
+Fixed Income, Currencies, and Commodities (FICC) 1,228 1,359 1,133 (10) 8
+Equities 558 450 397 24 41
+Credit Adjustment (CVA/DVA) and Other 7 19 14 (63) (50)
+Total Markets 1,793 1,828 1,544 (2) 16
+Other (43) 90 (4) NM NM
+Total revenue 4,838 4,982 4,631 (3) 4
+Provision for credit losses 285 5 933 NM (69)
+Noninterest expense 2,170 2,330 2,087 (7) 4
+Net income $ 1,785 1,981 1,210 (10) 48
+Average balances (in billions)
+Loans $ 275.8 283.2 291.5 (3) (5)
+Deposits 187.5 183.3 160.3 2 17
+NM – Not meaningful
+Second Quarter 2024 vs. Second Quarter 2023
+◦ Revenue increased 4%
+▪ Banking was up 3% driven by higher investment banking revenue on increased activity across all products, partially
+offset by lower treasury management results driven by the impact of higher interest rates on deposit costs
+▪ Commercial Real Estate was down 4% and included the impact of lower loan balances, partially offset by higher
+commercial mortgage-backed securities volumes
+▪ Markets was up 16% driven by higher revenue in equities, structured products, and credit products, partially offset by
+lower revenue in rates products
+◦ Noninterest expense increased 4% driven by higher operating costs, partially offset by the impact of efficiency initiatives
+-6-
+
+--- Page 7 ---
+Wealth and Investment Management provides personalized wealth management, brokerage, financial planning, lending,
+private banking, trust and fiduciary products and services to affluent, high-net worth and ultra-high-net worth clients. We
+operate through financial advisors in our brokerage and wealth offices, consumer bank branches, independent offices, and
+digitally through WellsTrade® and Intuitive Investor®.
+Selected Financial Information
+Jun 30, 2024
+Quarter ended % Change from
+Jun 30, Mar 31, Jun 30, Mar 31, Jun 30,
+2024 2024 2023 2024 2023
+Earnings (in millions)
+Net interest income $ 906 869 1,009 4 % (10)
+Noninterest income 2,952 2,873 2,639 3 12
+Total revenue 3,858 3,742 3,648 3 6
+Provision for credit losses (14) 3 24 NM NM
+Noninterest expense 3,193 3,230 2,974 (1) 7
+Net income $ 484 381 487 27 (1)
+Total client assets (in billions) 2,200 2,186 1,998 1 10
+Average balances (in billions)
+Loans $ 83.2 82.5 83.0 1 —
+Deposits 102.8 101.5 112.4 1 ( 8)
+NM – Not meaningful
+Second Quarter 2024 vs. Second Quarter 2023
+◦ Revenue increased 6%
+▪ Net interest income was down 10% driven by lower deposit balances and higher deposit costs as customers reallocated
+cash into higher yielding alternatives
+▪ Noninterest income was up 12% on higher asset-based fees driven by an increase in market valuations
+◦ Noninterest expense increased 7% due to higher revenue-related compensation and higher operating losses, partially
+offset by lower operating costs and the impact of efficiency initiatives
+-7-
+
+--- Page 8 ---
+Corporate includes corporate treasury and enterprise functions, net of allocations (including funds transfer pricing, capital,
+liquidity and certain expenses), in support of the reportable operating segments, as well as our investment portfolio and
+venture capital and private equity investments. Corporate also includes certain lines of business that management has
+determined are no longer consistent with the long-term strategic goals of the Company as well as results for previously
+divested businesses.
+Selected Financial Information
+Jun 30, 2024
+Quarter ended % Change from
+Jun 30, Mar 31, Jun 30, Mar 31, Jun 30,
+2024 2024 2023 2024 2023
+Earnings (in millions)
+Net interest income $ (144) 32 (91) NM (58)
+Noninterest income 392 291 121 35 % 224
+Total revenue 248 323 30 (23) 727
+Provision for credit losses 4 (1) (144) 500 103
+Noninterest expense 723 1,075 269 (33) 169
+Net income (loss) $ (318) (435) 46 27 NM
+NM – Not meaningful
+Second Quarter 2024 vs. Second Quarter 2023
+◦ Revenue increased $218 million reflecting improved results from our venture capital investments
+◦ Noninterest expense increased and included higher operating losses and FDIC assessments
+Conference Call
+The Company will host a live conference call on Friday, July 12, at 10:00 a.m. ET. You may listen to the call by dialing
+1-888-673-9782 (U.S. and Canada) or 312-470-7126 (International/U.S. Toll) and enter passcode: 7928529#. The call will
+also be available online at https://www.wellsfargo.com/about/investor-relations/quarterly-earnings/ and
+https://metroconnectionsevents.com/WF2Qearnings0724.
+A replay of the conference call will be available from approximately 1:00 p.m. ET on Friday, July 12 through
+Friday, July 26. Please dial 1-866-361-4944 (U.S. and Canada) or 203-369-0192 (International/U.S. Toll) and enter
+passcode: 5714#. The replay will also be available online at
+https://www.wellsfargo.com/about/investor-relations/quarterly-earnings/ and
+https://metroconnectionsevents.com/WF2Qearnings0724.
+-8-
+
+--- Page 9 ---
+Forward-Looking Statements
+This document contains forward-looking statements. In addition, we may make forward-looking statements in our other
+documents filed or furnished with the Securities and Exchange Commission, and our management may make forward-
+looking statements orally to analysts, investors, representatives of the media and others. Forward-looking statements can
+be identified by words such as “anticipates,” “intends,” “plans,” “seeks,” “believes,” “estimates,” “expects,” “target,”
+“projects,” “outlook,” “forecast,” “will,” “may,” “could,” “should,” “can” and similar references to future periods. In particular,
+forward-looking statements include, but are not limited to, statements we make about: (i) the future operating or financial
+performance of the Company, including our outlook for future growth; (ii) our expectations regarding noninterest expense
+and our efficiency ratio; (iii) future credit quality and performance, including our expectations regarding future loan losses,
+our allowance for credit losses, and the economic scenarios considered to develop the allowance; (iv) our expectations
+regarding net interest income and net interest margin; (v) loan growth or the reduction or mitigation of risk in our loan
+portfolios; (vi) future capital or liquidity levels, ratios or targets; (vii) our expectations regarding our mortgage business and
+any related commitments or exposures; (viii) the expected outcome and impact of legal, regulatory and legislative
+developments, as well as our expectations regarding compliance therewith; (ix) future common stock dividends, common
+share repurchases and other uses of capital; (x) our targeted range for return on assets, return on equity, and return on
+tangible common equity; (xi) expectations regarding our effective income tax rate; (xii) the outcome of contingencies, such
+as legal actions; (xiii) environmental, social and governance related goals or commitments; and (xiv) the Company’s plans,
+objectives and strategies.
+Forward-looking statements are not based on historical facts but instead represent our current expectations and
+assumptions regarding our business, the economy and other future conditions. Because forward-looking statements
+relate to the future, they are subject to inherent uncertainties, risks and changes in circumstances that are difficult to
+predict. Our actual results may differ materially from those contemplated by the forward-looking statements. We caution
+you, therefore, against relying on any of these forward-looking statements. They are neither statements of historical fact
+nor guarantees or assurances of future performance. While there is no assurance that any list of risks and uncertainties or
+risk factors is complete, important factors that could cause actual results to differ materially from those in the forward-
+looking statements include the following, without limitation:
+• current and future economic and market conditions, including the effects of declines in housing prices, high
+unemployment rates, declines in commercial real estate prices, U.S. fiscal debt, budget and tax matters, geopolitical
+matters, and any slowdown in global economic growth;
+• our capital and liquidity requirements (including under regulatory capital standards, such as the Basel III capital
+standards) and our ability to generate capital internally or raise capital on favorable terms;
+• current, pending or future legislation or regulation that could have a negative effect on our revenue and businesses,
+including rules and regulations relating to bank products and financial services;
+• our ability to realize any efficiency ratio or expense target as part of our expense management initiatives, including as a
+result of business and economic cyclicality, seasonality, changes in our business composition and operating
+environment, growth in our businesses and/or acquisitions, and unexpected expenses relating to, among other things,
+litigation and regulatory matters;
+• the effect of the current interest rate environment or changes in interest rates or in the level or composition of our
+assets or liabilities on our net interest income, net interest margin and our mortgage originations, mortgage servicing
+rights and mortgage loans held for sale;
+• significant turbulence or a disruption in the capital or financial markets, which could result in, among other things,
+reduced investor demand for mortgage loans, a reduction in the availability of funding or increased funding costs, and
+declines in asset values and/or recognition of impairment of securities held in our debt securities and equity securities
+portfolios;
+• the effect of a fall in stock market prices on our investment banking business and our fee income from our brokerage
+and wealth management businesses;
+• developments in our mortgage banking business, including any negative effects relating to our mortgage servicing,
+loan modification or foreclosure practices, and any changes in industry standards, regulatory or judicial requirements,
+or our strategic plans for the business;
+• negative effects from instances where customers may have experienced financial harm, including on our legal,
+operational and compliance costs, our ability to engage in certain business activities or offer certain products or
+services, our ability to keep and attract customers, our ability to attract and retain qualified employees, and our
+reputation;
+• regulatory matters, including the failure to resolve outstanding matters on a timely basis and the potential impact of
+new matters, litigation, or other legal actions, which may result in, among other things, additional costs, fines,
+penalties, restrictions on our business activities, reputational harm, or other adverse consequences;
+-9-
+
+--- Page 10 ---
+• a failure in or breach of our operational or security systems or infrastructure, or those of our third-party vendors or
+other service providers, including as a result of cyber attacks;
+• the effect of changes in the level of checking or savings account deposits on our funding costs and net interest margin;
+• fiscal and monetary policies of the Federal Reserve Board;
+• changes to tax laws, regulations, and guidance as well as the effect of discrete items on our effective income tax rate;
+• our ability to develop and execute effective business plans and strategies; and
+• the other risk factors and uncertainties described under “Risk Factors” in our Annual Report on Form 10-K for the year
+ended December 31, 2023.
+In addition to the above factors, we also caution that the amount and timing of any future common stock dividends or
+repurchases will depend on the earnings, cash requirements and financial condition of the Company, the impact to our
+balance sheet of expected customer activity, our capital requirements and long-term targeted capital structure, the
+results of supervisory stress tests, market conditions (including the trading price of our stock), regulatory and legal
+considerations, including regulatory requirements under the Federal Reserve Board’s capital plan rule, and other factors
+deemed relevant by the Company, and may be subject to regulatory approval or conditions.
+For additional information about factors that could cause actual results to differ materially from our expectations, refer to
+our reports filed with the Securities and Exchange Commission, including the discussion under “Risk Factors” in our Annual
+Report on Form 10-K for the year ended December 31, 2023, as filed with the Securities and Exchange Commission and
+available on its website at www.sec.gov6.
+Any forward-looking statement made by us speaks only as of the date on which it is made. Factors or events that could
+cause our actual results to differ may emerge from time to time, and it is not possible for us to predict all of them. We
+undertake no obligation to publicly update any forward-looking statement, whether as a result of new information, future
+developments or otherwise, except as may be required by law.
+Forward-looking Non-GAAP Financial Measures. From time to time management may discuss forward-looking non-GAAP
+financial measures, such as forward-looking estimates or targets for return on average tangible common equity. We are
+unable to provide a reconciliation of forward-looking non-GAAP financial measures to their most directly comparable
+GAAP financial measures because we are unable to provide, without unreasonable effort, a meaningful or accurate
+calculation or estimation of amounts that would be necessary for the reconciliation due to the complexity and inherent
+difficulty in forecasting and quantifying future amounts or when they may occur. Such unavailable information could be
+significant to future results.
+6 We do not control this website. Wells Fargo has provided this link for your convenience, but does not endorse and is not responsible for the content,
+links, privacy policy, or security policy of this website.
+-10-
+
+--- Page 11 ---
+About Wells Fargo
+Wells Fargo & Company (NYSE: WFC) is a leading financial services company that has approximately $1.9 trillion in assets.
+We provide a diversified set of banking, investment and mortgage products and services, as well as consumer and
+commercial finance, through our four reportable operating segments: Consumer Banking and Lending, Commercial
+Banking, Corporate and Investment Banking, and Wealth & Investment Management. Wells Fargo ranked No. 34 on
+Fortune’s 2024 rankings of America’s largest corporations. In the communities we serve, the company focuses its social
+impact on building a sustainable, inclusive future for all by supporting housing affordability, small business growth,
+financial health, and a low-carbon economy.
+Contact Information
+Media
+Beth Richek, 704-374-2545
+beth.richek@wellsfargo.com
+or
+Investor Relations
+John M. Campbell, 415-396-0523
+john.m.campbell@wellsfargo.com
+# # #
+-11-
