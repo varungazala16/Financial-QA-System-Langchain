@@ -4,7 +4,7 @@ A Retrieval-Augmented Generation (RAG) system for answering questions about fina
 
 ## Overview
 
-This system processes financial PDF reports, creates a vectorized knowledge base, and uses three open-source LLMs (Llama-3, Mistral-7B, Phi-3-mini) to answer domain-specific financial questions. It evaluates responses using BLEU, ROUGE & METEOR metrics.
+This system processes financial PDF reports, creates a vectorized knowledge base, and uses three open-source LLMs (Llama-3, Mistral-7B, Phi-3-mini) to answer domain-specific financial questions. It evaluates responses using BLEU, ROUGE metrics.
 
 ## Features
 
@@ -12,7 +12,7 @@ This system processes financial PDF reports, creates a vectorized knowledge base
 - **Intelligent Chunking**: 300-token chunks with 50-token overlap for focused retrieval
 - **Vector Database**: ChromaDB for efficient similarity search
 - **Multiple LLMs**: Supports Llama-3, Mistral-7B, and Phi-3-mini via Ollama
-- **Comprehensive Evaluation**: BLEU, ROUGE & METEOR metrics
+- **Comprehensive Evaluation**: BLEU, ROUGE metrics
 - **Formatted Output**: Beautiful tabular display of results
 
 ## Project Structure
@@ -99,13 +99,12 @@ The system displays:
 - **3 Q&A Tables**: One for each model showing questions and answers
 - **BLEU Scores Table**: BLEU scores for each model
 - **ROUGE Scores Table**: ROUGE-1, ROUGE-2, ROUGE-L scores
-- **METEOR Scores Table**: METEOR scores for each model
 
 ## Evaluation Metrics
 
 - **BLEU**: Measures n-gram overlap with reference answers
 - **ROUGE**: Evaluates recall-oriented metrics (ROUGE-1, ROUGE-2, ROUGE-L)
-- **METEOR**: Measures semantic overlap using precision/recall with synonym and stem matching
+
 
 ## Notes
 
