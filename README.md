@@ -9,10 +9,10 @@ This system processes financial PDF reports, creates a vectorized knowledge base
 ## Features
 
 - **PDF Processing**: Extracts text from financial reports using pdfplumber
-- **Intelligent Chunking**: 100-token chunks with 50-token overlap for focused retrieval
+- **Intelligent Chunking**: 300-token chunks with 50-token overlap for focused retrieval
 - **Vector Database**: ChromaDB for efficient similarity search
 - **Multiple LLMs**: Supports Llama-3, Mistral-7B, and Phi-3-mini via Ollama
-- **Comprehensive Evaluation**: BLEU, ROUGE, and METEOR metrics
+- **Comprehensive Evaluation**: BLEU & ROUGE metrics
 - **Formatted Output**: Beautiful tabular display of results
 
 ## Project Structure
