@@ -4,7 +4,7 @@ A Retrieval-Augmented Generation (RAG) system for answering questions about fina
 
 ## Overview
 
-This system processes financial PDF reports, creates a vectorized knowledge base, and uses three open-source LLMs (Llama-3, Mistral-7B, Phi-3-mini) to answer domain-specific financial questions. It evaluates responses using BLEU, ROUGE, and METEOR metrics.
+This system processes financial PDF reports, creates a vectorized knowledge base, and uses three open-source LLMs (Llama-3, Mistral-7B, Phi-3-mini) to answer domain-specific financial questions. It evaluates responses using BLEU & ROUGE metrics.
 
 ## Features
 
