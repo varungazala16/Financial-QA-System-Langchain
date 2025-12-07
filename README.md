@@ -77,7 +77,7 @@ python main.py
 
 The system will:
 1. Process PDF files and extract text
-2. Chunk documents (100 tokens, 50 overlap)
+2. Chunk documents (300 tokens, 50 overlap)
 3. Generate embeddings
 4. Build ChromaDB vector store
 5. Load questions
